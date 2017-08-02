@@ -1,5 +1,5 @@
 # Disallowed Usernames
-A CSV file containing a list of words which should be ignored from your username lists.
+A CSV file containing a list of words which should be ignored from your username database.
 
 ## What
 
