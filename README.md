@@ -1,6 +1,6 @@
 # Disallowed Usernames
 The goal of this project is to create a universal database of disallowed usernames for web applications. 
-This repository list of keywords that should be banned/disallowed to prevent users from registering with, on your software projects and apps to prevent impersonation and phishing on your platform.
+This repository contains a list of keywords that should be banned/disallowed to prevent users from registering with, on your software projects and apps to prevent impersonation and phishing on your platform.
 
 ## Formats
 CSV
@@ -17,9 +17,9 @@ http://support.example.com
 
 and use this to send out emails impersonating as someone un-suspecting from your application.
 
-## How
+## How to use this
 
-You can also import this file directly from your database's GUI (like phpMyAdmin, Sequel Pro, HeidiSQL).
+You can import this file directly from your database's GUI (like phpMyAdmin, Sequel Pro, HeidiSQL).
 
 # License
 This project is licensed under the [MIT License](https://github.com/dsignr/disallowed-usernames/blob/master/LICENSE)
