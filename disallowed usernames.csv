@@ -1,5 +1,6 @@
 .json,
 .rss,
+.well-known,
 .xml,
 about,
 access,
